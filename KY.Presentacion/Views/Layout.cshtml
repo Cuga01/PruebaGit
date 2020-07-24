@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>KY Consulting Pedidos</title>
+
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/assets/css/bootstrap-datetimepicker-4.17.47.min.css" rel="stylesheet" />
+
+    <link href="~/assets/css/ag-grid.css" rel="stylesheet" />
+    <link href="~/assets/css/ag-theme-balham.css" rel="stylesheet" />
+
+    <link href="~/assets/css/styles.css" rel="stylesheet" />
+    <link href="~/assets/css/plugins/Personalisados.css" rel="stylesheet" />
+
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/js/tree.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+
+    <script src="~/Scripts/sweetalert.min.js"></script>
+
+    <script src="~/Scripts/plugins/moment.min.js"></script>
+    <script src="~/assets/js/momentjs-es.js"></script>
+    <script src="~/assets/js/bootstrap-datetimepicker-4.17.47.min.js"></script>
+    <script src="~/assets/js/ag-grid-community.min.noStyle.js"></script>
+
+    <script src="~/Scripts/js/helpers.js"></script>
+    <script src="~/Scripts/js/generales.js"></script>
+
+</head>
+<body>
+    <div> 
+    </div>
+    @RenderBody()
+    <div class="modal fade" id="modalGeneral" role="dialog" aria-labelledby="exampleModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="exampleModalLabel">New message</h4>
+                </div>
+                <div class="modal-body">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

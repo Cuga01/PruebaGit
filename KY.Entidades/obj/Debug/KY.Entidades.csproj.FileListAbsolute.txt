@@ -1,0 +1,10 @@
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\bin\Debug\KY.Entidades.dll.config
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\bin\Debug\KY.Entidades.dll
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\bin\Debug\KY.Entidades.pdb
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\bin\Debug\EntityFramework.dll
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\bin\Debug\EntityFramework.xml
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\obj\Debug\KY.Entidades.dll
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\obj\Debug\KY.Entidades.pdb
+C:\Users\Cuga\documents\visual studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\obj\Debug\KY.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Cuga\documents\visual studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cuga\documents\visual studio 2015\Projects\Sol.Caso_Northwind\KY.Entidades\bin\Debug\EntityFramework.SqlServer.xml

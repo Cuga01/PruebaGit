@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Registro de Pedidos";
+    Layout = "~/Views/Layout.cshtml";
+}
+
+@section scripts {
+    <script src="@Url.Content("~/Scripts/js/PedidoCliente.js")"></script>
+}
+<div class="container-fluid max-1200px">
+    <div class="row mt-4px">
+        <div class="col-md-10">
+            <h3 class="i-block title">Listado de Pedidos de Confirmación</h3>
+        </div>
+    </div>
+
+    <div class="border-container mt-8px">
+        <div class="row">
+            <div class="col-md-10">
+                <div class="row">
+                    <div class="col-md-4 mt-4px mb-4px">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <label for="">Número&nbsp;de&nbsp;orden</label>
+                            </div>
+                            <div class="col-md-7">
+                                <input type="text" class="form-control" id="txtFiltroNrOrden" />
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="col-md-2 mt-4px mb-4px">
+                <div class="lg-right">
+                    <button type="button" id="btnLimpiar" class="btn btn-success">Limpiar</button>
+                    <button type="button" id="btnBuscar" class="btn btn-success">Buscar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-grid mt-12px">
+        <div id="gridPedidoCliente" style="height: 400px; width:100%" class="ag-theme-balham mb-16px"></div>
+    </div>
+</div>

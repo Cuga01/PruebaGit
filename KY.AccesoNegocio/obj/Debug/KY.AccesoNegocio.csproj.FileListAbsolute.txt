@@ -1,0 +1,10 @@
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\bin\Debug\KY.AccesoNegocio.dll
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\bin\Debug\KY.AccesoNegocio.pdb
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\bin\Debug\KY.AccesoDatos.dll
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\bin\Debug\KY.Entidades.dll
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\bin\Debug\KY.AccesoDatos.pdb
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\bin\Debug\KY.Entidades.pdb
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\obj\Debug\KY.AccesoNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\obj\Debug\KY.AccesoNegocio.dll
+C:\Users\Cuga\Documents\Visual Studio 2015\Projects\Sol.Caso_Northwind\KY.AccesoNegocio\obj\Debug\KY.AccesoNegocio.pdb
